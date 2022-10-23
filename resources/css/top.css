@@ -1,0 +1,49 @@
+div#header {
+    margin-bottom: 20px;
+}
+div#header {
+    position: relative;
+    height: 59px;
+    border-top: 5px solid #004da0;
+    border-bottom: 1px solid #e5e5e5;
+    background: url(/public/img/common/bg_header.jpg) left top repeat-x #fff;
+}
+ol, dl, dt, dd, address, form, blockquote {
+    padding: 0;
+    line-height: 1.6;
+    text-align: left;
+    display: block;
+    margin: 0px;
+    font-size: 14px;
+}
+img {
+    border: none;
+    vertical-align: bottom;
+    text-align: center;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+div#header .corporation_menu {
+    width: 56px;
+    height: auto;
+    padding-bottom: 4px;
+}
+body {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    background: #FFF;
+    color: #3b3b3b;
+    font-family: Helvetica,arial,Verdana,'ＭＳ Ｐゴシック','MS P Gothic',Osaka,sans-serif;
+    font-family: "helvetica-neue", helvetica, arial, meiryo, sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+}
+div#cont_headline, div#cont_press_release {
+    margin-bottom: 40px;
+}
+div#cont_headline, div#cont_relations, div#cont_press_release {
+    width: 770px;
+}
