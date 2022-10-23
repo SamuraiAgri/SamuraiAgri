@@ -16,7 +16,7 @@
 <div role="main">
 	<div id="header">
 	<div class="wrap">
-		<div class="main_title"><a href="http://localhost:8000/"><p>株式会社サムライアグリ</p></a></div>
+		<div class="main_title"><a href="http://dairyjournal.net/"><p>株式会社サムライアグリ</p></a></div>
 		<ul class="clearfix dp_pc">
             <li><a href="/concept"><p>Cart</p></a></li>
 			<li><a href="/concept"><p>Concept</p></a></li>
@@ -59,15 +59,15 @@
 				<table cellpadding="0" cellspacing="0" border="0" width="100%" id="news_headline">
 					<tr>
 						<td class="date">2022/10/13</td>
-						<td class="title"><a href="/public/news/2022/invest-in-cycloop.php">新着情報・お知らせtest</a></td>
+						<td class="title"><a href="">新着情報・お知らせtest</a></td>
 					</tr>
                     <tr>
 						<td class="date">2021/05/22</td>
-						<td class="title"><a href="/public/press/press_20180522_01.php">testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</a></td>
+						<td class="title"><a href="">testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</a></td>
 					</tr>
 					<tr>
 						<td class="date">2020/08/02</td>
-						<td class="title"><a href="/public/news/2022/invest-in-fujiko-san.php">新着情報・お知らせtest</a></td>
+						<td class="title"><a href="">新着情報・お知らせtest</a></td>
 					</tr>
 				</table>
 			</div>
@@ -77,15 +77,15 @@
 				<table cellpadding="0" cellspacing="0" border="0" width="100%" id="news_headline">
 					<tr>
 						<td class="date">2022/10/13</td>
-						<td class="title"><a href="/public/news/2022/invest-in-cycloop.php">プレスリリースtest</a></td>
+						<td class="title"><a href="">プレスリリースtest</a></td>
 					</tr>
                     <tr>
 						<td class="date">2021/05/22</td>
-						<td class="title"><a href="/public/press/press_20180522_01.php">プレスリリースtest</a></td>
+						<td class="title"><a href="">プレスリリースtest</a></td>
 					</tr>
 					<tr>
 						<td class="date">2020/08/02</td>
-						<td class="title"><a href="/public/news/2022/invest-in-fujiko-san.php">testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</a></td>
+						<td class="title"><a href="">testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</a></td>
 					</tr>
 				</table>
 			</div>

@@ -1,11 +1,10 @@
 <html>
     <head>
-        <title>Lineup</title>
+        <title>Concept</title>
     </head>
     <body>
-        <h1>ラインアップ</h1>
+        <h1>現在、準備中です。</h1>
         <table>
-        <tr><th>プロダクトID</th><th>シリーズID</th><th>カテゴリID</th></tr>
         </table>
     </body>
 </html>
