@@ -18,9 +18,9 @@
 	<div class="wrap">
 		<div class="main_title"><a href="http://dairyjournal.net/"><p>株式会社サムライアグリ</p></a></div>
 		<ul class="clearfix dp_pc">
-            <li><a href="/concept"><p>Cart</p></a></li>
+            <li><a href="https://samuraiagri.buyshop.jp/"><p>Cart</p></a></li>
 			<li><a href="/concept"><p>Concept</p></a></li>
-			<li><a href="/blog"><p>Blog</p></a></li>
+			<li><a href="/wp"><p>Blog</p></a></li>
 			<li><a href="/abouts"><p>Abouts</p></a></li>
 		</ul>
 	</div>
