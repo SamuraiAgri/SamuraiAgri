@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title>株式会社サムライアグリ（SamuraiAgri）</title>
+    </head>
+    <body>
+        <h1>SP版は現在中です。<br>PCで確認ください。</h1>
+        <table>
+        </table>
+    </body>
+</html>
