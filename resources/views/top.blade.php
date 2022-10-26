@@ -25,10 +25,6 @@
 		</ul>
 	</div>
 </div><!--/#header-->
-<?php
-    $test = "aa";
-	echo $test;
-?>
 <div id="container" class="clearfix">
 
 	<div id="wrapper" class="clearfix">
