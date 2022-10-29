@@ -15,9 +15,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('top');
 });
-Route::get('/concept', function () {
-    return view('concept');
-});
 Route::get('/blog', function () {
     return view('blog');
 });
