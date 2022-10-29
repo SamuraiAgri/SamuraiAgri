@@ -15,7 +15,7 @@
 	<div role="main">
 	<div id="header">
 		<div class="wrap">
-			<div class="main_title"><a href="http://dairyjournal.net/"><p>株式会社 Durant</p></a></div>
+			<div class="main_title"><a href="/"><p>株式会社 Durant</p></a></div>
 				<ul class="clearfix dp_pc">
 					<li><a href="/"><p>Home</p></a></li>
 					<li><a href="https://samuraiagri.buyshop.jp/"><p>Cart</p></a></li>

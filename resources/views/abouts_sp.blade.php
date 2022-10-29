@@ -51,40 +51,9 @@
             </h1>
 		</div>
 		<div class="wrap">
-		<div id="cont_headline">
-			<h2><em>新着情報・お知らせ</em></h2>
-			<table cellpadding="0" cellspacing="0" border="0" width="100%" id="news_headline">
-			<tr>
-				<td class="date">2022/10/13</td>
-				<td class="title"><a href="">新着情報・お知らせtest</a></td>
-			</tr>
-			<tr>
-				<td class="date">2021/05/22</td>
-				<td class="title"><a href="">testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</a></td>
-			</tr>
-			<tr>
-				<td class="date">2020/08/02</td>
-				<td class="title"><a href="">新着情報・お知らせtest</a></td>
-			</tr>
-			</table>
-		</div>
 
-		<div id="cont_press_release">
-			<h2><em>プレスリリース</em></h2>
-			<table cellpadding="0" cellspacing="0" border="0" width="100%" id="news_headline">
-			<tr>
-				<td class="date">2022/10/13</td>
-				<td class="title"><a href="">プレスリリースtest</a></td>
-			</tr>
-			<tr>
-				<td class="date">2021/05/22</td>
-				<td class="title"><a href="">プレスリリースtest</a></td>
-			</tr>
-			<tr>
-				<td class="date">2020/08/02</td>
-				<td class="title"><a href="">testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</a></td>
-			</tr>
-			</table>
+		<div id="">
+			<h2><em>このページは現在準備中です。</em></h2>
 		</div>
 
 		<div id="social_link2">

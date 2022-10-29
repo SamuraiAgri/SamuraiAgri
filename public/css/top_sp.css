@@ -1,0 +1,329 @@
+.main_title {
+    text-align: left;
+    font-family: serif;
+    line-height: 59px;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+#header {
+    display: flex;
+    align-items: center;
+    padding: 3vmin 9px 3vmin 15px;
+    border-top: 5px solid #004da0;
+    border-bottom: 1px solid #ccc;
+}
+h1, h2, h3, h4, h5, h6, div, p, pre, ul, ol, dl, dt, dd, address, form, blockquote {
+    padding: 0;
+    line-height: 1.6;
+    display: block;
+    margin: 0px;
+    font-size: 14px;
+}
+#main_image h1 img {
+    display: block;
+    width: 100%;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+#cont_guide li a span {
+    display: block;
+    margin-bottom: 6px;
+    padding-bottom: 9px;
+    border-bottom: 1px solid #ccc;
+    color: #004ea2;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1;
+}
+#cont_guide li a {
+    display: block;
+    color: #333;
+    font-size: 11px;
+}
+a {
+    text-decoration: none;
+    color: #004da0;
+}
+
+h2 {
+    width: 100%;
+    margin: 10px auto 15px;
+    padding: 2px 10px 1px;
+    border: 1px solid #e8e8e8;
+    border-radius: 2px;
+    -webkit-box-shadow: inset 0 0 0 1px #fff, 0 1px 0 0 #a0a0a0;
+    box-shadow: inset 0 0 0 1px #fff, 0 1px 0 0 #a0a0a0;
+    background: linear-gradient(#f3f3f3, #fff);
+    font-size: 16px;
+    font-weight: normal;
+}
+div#footer {
+    margin: 20px auto 15px;
+    text-align: center;
+}
+ul.topicpath {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    min-height: 30px;
+    padding: 2px;
+    border-top: 1px solid #ccc;
+    border-bottom: 4px solid #004DA0;
+    -webkit-box-shadow: 0 1px 0 0 #ccc;
+    box-shadow: 0 1px 0 0 #ccc;
+    background-color: #f5f5f5;
+    text-indent: -9999px;
+}
+#header .hamburger-menu a {
+    display: inline-flex;
+    align-items: flex-end;
+    height: 32px;
+    background: url(/public/img/common/icon_hamburger.svg) center top no-repeat;
+    background-size: 23px auto;
+    color: #111;
+    font-size: 9px;
+    text-decoration: none;
+    white-space: nowrap;
+    line-height: 1;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+    font-size: 1.6rem;
+    color: #707070;
+    background-color: #ffffff;
+}
+ul, li {
+    list-style: none;
+}
+
+/* ハンバーガーメニュー */
+.menu-btn {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    height: 45px;
+    width: 45px;
+    justify-content: center;
+    align-items: center;
+    z-index: 90;
+    background-color: #004da0;
+}
+.menu-btn span,
+.menu-btn span:before,
+.menu-btn span:after {
+    content: '';
+    display: block;
+    height: 3px;
+    width: 25px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    position: absolute;
+}
+.menu-btn span:before {
+    bottom: 8px;
+}
+.menu-btn span:after {
+    top: 8px;
+}
+#menu-btn-check:checked ~ .menu-btn span {
+    background-color: rgba(255, 255, 255, 0);/*メニューオープン時は真ん中の線を透明にする*/
+}
+#menu-btn-check:checked ~ .menu-btn span::before {
+    bottom: 0;
+    transform: rotate(45deg);
+}
+#menu-btn-check:checked ~ .menu-btn span::after {
+    top: 0;
+    transform: rotate(-45deg);
+}
+#menu-btn-check {
+    display: none;
+}
+s
+.menu-content {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 80;
+    background-color: #3584bb;
+}
+.menu-content ul {
+    padding: 70px 10px 0;
+}
+.menu-content ul li {
+    border-bottom: solid 1px #ffffff;
+    list-style: none;
+}
+.menu-content ul li a {
+    display: block;
+    width: 100%;
+    font-size: 15px;
+    box-sizing: border-box;
+    color:#ffffff;
+    text-decoration: none;
+    padding: 9px 15px 10px 0;
+    position: relative;
+}
+.menu-content ul li a::before {
+    content: "";
+    width: 7px;
+    height: 7px;
+    border-top: solid 2px #ffffff;
+    border-right: solid 2px #ffffff;
+    transform: rotate(45deg);
+    position: absolute;
+    right: 11px;
+    top: 16px;
+}
+.menu-content {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 80;
+    background-color: #3584bb;
+}
+.menu-content ul {
+    padding: 70px 10px 0;
+}
+.menu-content ul li {
+    border-bottom: solid 1px #ffffff;
+    list-style: none;
+}
+.menu-content ul li a {
+    display: block;
+    width: 100%;
+    font-size: 15px;
+    box-sizing: border-box;
+    color:#ffffff;
+    text-decoration: none;
+    padding: 9px 15px 10px 0;
+    position: relative;
+}
+.menu-content ul li a::before {
+    content: "";
+    width: 7px;
+    height: 7px;
+    border-top: solid 2px #ffffff;
+    border-right: solid 2px #ffffff;
+    transform: rotate(45deg);
+    position: absolute;
+    right: 11px;
+    top: 16px;
+}
+.menu-content {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 100%;/*leftの値を変更してメニューを画面外へ*/
+    z-index: 80;
+    background-color: #3584bb;
+    transition: all 0.5s;/*アニメーション設定*/
+}
+#menu-btn-check:checked ~ .menu-content {
+    left: 0;/*メニューを画面内へ*/
+}
+/*==================================================
+スライダーのためのcss
+===================================*/
+.slider {/*横幅94%で左右に余白を持たせて中央寄せ*/
+    width:94%;
+     margin:0 auto;
+ }
+ 
+ .slider img {
+     width:100%;/*スライダー内の画像を横幅100%に*/
+     height:auto;
+ }
+ 
+ /*slickのJSで書かれるタグ内、スライド左右の余白調整*/
+ 
+ .slider .slick-slide {
+     margin:0 10px;
+ }
+ 
+ /*矢印の設定*/
+ 
+ /*戻る、次へ矢印の位置*/
+ .slick-prev, 
+ .slick-next {
+     position: absolute;/*絶対配置にする*/
+     top: 42%;
+     cursor: pointer;/*マウスカーソルを指マークに*/
+     outline: none;/*クリックをしたら出てくる枠線を消す*/
+     border-top: 2px solid #666;/*矢印の色*/
+     border-right: 2px solid #666;/*矢印の色*/
+     height: 15px;
+     width: 15px;
+ }
+ 
+ .slick-prev {/*戻る矢印の位置と形状*/
+     left: -1.5%;
+     transform: rotate(-135deg);
+ }
+ 
+ .slick-next {/*次へ矢印の位置と形状*/
+     right: -1.5%;
+     transform: rotate(45deg);
+ }
+ 
+ /*ドットナビゲーションの設定*/
+ 
+ .slick-dots {
+     text-align:center;
+   margin:20px 0 0 0;
+ }
+ 
+ .slick-dots li {
+     display:inline-block;
+   margin:0 5px;
+ }
+ 
+ .slick-dots button {
+     color: transparent;
+     outline: none;
+     width:8px;/*ドットボタンのサイズ*/
+     height:8px;/*ドットボタンのサイズ*/
+     display:block;
+     border-radius:50%;
+     background:#ccc;/*ドットボタンの色*/
+ }
+ 
+ .slick-dots .slick-active button{
+     background:#333;/*ドットボタンの現在地表示の色*/
+ }
+ 
+ a:hover,
+ a:active{
+   text-decoration: none;
+ }
+.module_image {
+    border-radius: 50%;
+    margin-right: 2px;
+}
+.module_image:hover {
+    filter: invert(75%);
+}
+.social_item2 {
+    display: flex;
+    align-items: center;
+    padding: 10px 0px 10px 0px;
+}
+
