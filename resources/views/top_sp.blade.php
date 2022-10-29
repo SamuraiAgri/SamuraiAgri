@@ -60,7 +60,7 @@
 			</tr>
 			<tr>
 				<td class="date">2021/05/22</td>
-				<td class="title"><a href="">testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</a></td>
+				<td class="title"><a href="">新着情報・お知らせtest</a></td>
 			</tr>
 			<tr>
 				<td class="date">2020/08/02</td>
@@ -82,7 +82,7 @@
 			</tr>
 			<tr>
 				<td class="date">2020/08/02</td>
-				<td class="title"><a href="">testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</a></td>
+				<td class="title"><a href="">プレスリリースtest</a></td>
 			</tr>
 			</table>
 		</div>
