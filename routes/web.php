@@ -15,9 +15,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('top');
 });
-Route::get('/blog', function () {
-    return view('blog');
-});
 Route::get('/abouts', function () {
     return view('abouts');
+});
+Route::get('/privacypolicy', function () {
+    return view('privacypolicy');
 });
